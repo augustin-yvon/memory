@@ -82,7 +82,7 @@ function App() {
         setDisabled(false)
     };
 
-    //
+    // change level
     const setLevel = (level) => {
         let newWatchTime;
         switch (level) {
