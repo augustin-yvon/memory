@@ -69,6 +69,7 @@ function App() {
             }
         }
     }, [choiceOne, choiceTwo]);
+    
 
     // start a new game automatically
     useEffect(() => {
